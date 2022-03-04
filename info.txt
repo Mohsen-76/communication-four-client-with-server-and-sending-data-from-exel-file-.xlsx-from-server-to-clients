@@ -1,0 +1,8 @@
+hi this is a network project 
+first you have to run server.py
+and then entry ip and port then server will be bind.
+
+then you have to run client.py in diffrent operating system
+beacuse ip of each client have to be diffrent
+for example you have to run a client.py file in windows and onother 
+client.py file have to run on linux and any OS.
